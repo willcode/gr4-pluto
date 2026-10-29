@@ -1,0 +1,16 @@
+# Copyright 2026 Jeff Long
+# SPDX-License-Identifier: MIT
+#
+# Every file carries its own SPDX-License-Identifier header, and that header governs.
+# The annotation below states the same license for a file without one. LICENSE states
+# the license of the package as a whole.
+version = 1
+SPDX-PackageName = "gr4-pluto"
+SPDX-PackageSupplier = "Jeff Long <willcode4@gmail.com>"
+SPDX-PackageDownloadLocation = "NOASSERTION"
+
+[[annotations]]
+path = "**"
+precedence = "closest"
+SPDX-FileCopyrightText = "2026 Jeff Long"
+SPDX-License-Identifier = "MIT"

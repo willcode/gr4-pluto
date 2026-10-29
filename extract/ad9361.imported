@@ -1,0 +1,42 @@
+# Copyright 2026 Jeff Long
+# SPDX-License-Identifier: MIT
+#
+# The files the last import from libcapture placed in this tree, one path per line.
+# extract/copy.py writes this file and reads it at the next import.
+# This copy is of libcapture as of 2026-11-01, at "Report every source's losses in one form", its last change to these files.
+ad9361/CMakeLists.txt
+ad9361/README.md
+ad9361/include/capture/ad9361/Device.hpp
+ad9361/include/capture/ad9361/Discovery.hpp
+ad9361/include/capture/ad9361/Iio.hpp
+ad9361/include/capture/ad9361/Sink.hpp
+ad9361/include/capture/ad9361/Source.hpp
+ad9361/include/gnuradio-4.0/capture/ad9361/Ad9361Blocks.hpp
+ad9361/test/hw_ad9361.cpp
+ad9361/test/qa_ad9361.cpp
+ad9361/test/qa_discovery_library_ad9361.cpp
+CMakeLists.txt
+LICENSE
+README.md
+REUSE.toml
+common/cmake/capture.cmake
+common/include/capture/common/ControlDesc.hpp
+common/include/capture/common/CoreListing.hpp
+common/include/capture/common/Device.hpp
+common/include/capture/common/Discovery.hpp
+common/include/capture/common/DiscoveryLibrary.hpp
+common/include/capture/common/Env.hpp
+common/include/capture/common/Properties.hpp
+common/include/capture/common/Ring.hpp
+common/include/capture/common/Sink.hpp
+common/include/capture/common/Source.hpp
+common/include/capture/common/Threading.hpp
+common/src/common/DiscoveryLibrary.cpp
+common/test/support/Cases.hpp
+common/test/support/Chain.hpp
+common/test/support/HwSink.hpp
+common/test/support/Labels.hpp
+common/test/support/Losses.hpp
+common/test/support/Surface.hpp
+knowledge/ad9361.md
+knowledge/common.md
